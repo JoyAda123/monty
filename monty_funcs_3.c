@@ -63,3 +63,7 @@ void monty_pstr(stack_t **stack, unsigned int line_number)
 
 	(void)line_number;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> dcc400cefe074062e42733fd5eec39456f0c2b7e

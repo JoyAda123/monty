@@ -98,3 +98,7 @@ void fill_numbase_buff(unsigned int num, unsigned int base,
 		i--;
 	}
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> dcc400cefe074062e42733fd5eec39456f0c2b7e
